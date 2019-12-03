@@ -55,6 +55,7 @@ h2{
 
 .top-nav ul{
 	list-style-type:none;
+  text-decoration: none;
 }
 
 .top-nav ul li{
